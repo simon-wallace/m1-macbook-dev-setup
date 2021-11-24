@@ -2,7 +2,8 @@
 > Nov 2021 - Simon Wallace
 
 Development environment setup instructions for M1 Macbook Pro running Monterey 12.0.1
-All runs natively on the Apple silicon for improved performance and battery life 
+
+All run natively on the Apple silicon for improved performance and battery life 
 
 ### 1. Install Homebrew
 ```
